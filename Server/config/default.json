@@ -1,0 +1,5 @@
+{
+    "mongooseURL":"mongodb+srv://muhammedazeez473:IUZmfC5BvwcRW5oe@cluster0.wconiyx.mongodb.net/db_Example",
+    "jwtSecret":"mysecrettoken"
+
+}
